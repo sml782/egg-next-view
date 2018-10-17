@@ -1,6 +1,6 @@
 {
   "name": "egg-next-view",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "为了喜欢next.js的朋友",
   "eggPlugin": {
     "name": "nextView"
@@ -40,6 +40,7 @@
     "autod": "autod"
   },
   "files": [
+    "app",
     "app.js",
     "agent.js",
     "config"
@@ -49,12 +50,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/eggjs/egg-next-view.git"
+    "url": "git+https://github.com/sml782/egg-next-view.git"
   },
   "bugs": {
-    "url": "https://github.com/eggjs/egg/issues"
+    "url": "https://github.com/sml782/egg-next-view/issues"
   },
-  "homepage": "https://github.com/eggjs/egg-next-view#readme",
+  "homepage": "https://github.com/sml782/egg-next-view",
   "author": "sml782",
   "license": "MIT"
 }
